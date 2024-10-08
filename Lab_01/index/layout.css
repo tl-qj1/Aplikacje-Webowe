@@ -1,0 +1,45 @@
+* {
+  background-color: #e2f1e7;
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 520;
+  font-style: normal;
+}
+
+h1 {
+  color: #243642;
+  text-align: center;
+  font-size: 70px;
+}
+
+a.one:link,
+a.one:visited {
+  color: #243642;
+  text-decoration: none;
+}
+a.two:link,
+a.two:visited {
+  color: #387478;
+  text-decoration: none;
+}
+a.three:link,
+a.three:visited {
+  color: #629584;
+  text-decoration: none;
+}
+a.one:hover,
+a.two:hover,
+a.three:hover {
+  color: deeppink;
+  text-decoration-line: underline;
+  text-decoration-color: deeppink;
+  text-decoration-style: dashed;
+  font-size: 150%;
+}
+ol {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 30px;
+  line-height: 50px;
+  list-style-type: upper-roman;
+}

@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+.square1 {
+  height: 100px;
+  width: 100px;
+  background-color: #f2e9e4;
+  margin: 5px;
+}
+.square2 {
+  height: 100px;
+  width: 100px;
+  background-color: #c9ada7;
+  margin: 5px;
+}
+.square3 {
+  height: 100px;
+  width: 100px;
+  background-color: #9a8c98;
+  margin: 5px;
+}
+
+.square4 {
+  height: 100px;
+  width: 100px;
+  background-color: #4a4e69;
+  margin: 5px;
+}
+
+.square5 {
+  height: 100px;
+  width: 100px;
+  background-color: #22223b;
+  margin: 5px;
+}
+.kitku {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+}
+
+#first {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+#second {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
