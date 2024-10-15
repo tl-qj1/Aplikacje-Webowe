@@ -1,0 +1,35 @@
+* {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  text-align: justify;
+  /* font-weight: 600; */
+  font-style: normal;
+}
+h1 {
+  font-weight: 600;
+  font-size: 350%;
+}
+p {
+  font-weight: 500;
+  font-size: 140%;
+}
+div {
+  width: 60%;
+  float: left;
+}
+img {
+  image-rendering: auto;
+  height: max-content;
+  width: auto;
+  margin-left: 45px;
+}
+.podsumowanie {
+  font-style: italic;
+  float: left;
+  color: #629584;
+  text-shadow: darkgreen;
+}
+.podpis {
+  font-style: italic;
+  color: dimgrey;
+}
